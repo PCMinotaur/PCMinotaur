@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PCMinotaur
-- 👀 I’m interested in Soccer, computer systems, and networking
-- 🌱 I’m currently learning how to code with C Programming
+- 👀 I’m interested in learning everything 
+- 🌱 I’m currently learning how to code with RUST and Python
 - 💞️ I’m looking to collaborate on my projects to learn from experienced coders
 - 📫 How to reach me is easy, message me here!
 
